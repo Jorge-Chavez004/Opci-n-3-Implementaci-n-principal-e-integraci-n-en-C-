@@ -1,5 +1,6 @@
-# Artificial Bee Colony para Permutation Flow Shop Scheduling Problem (PFSP)
-
+# Opción 3: Implementación principal e integración en C++
+#### Encargarse de programar el funcionamiento principal del algoritmo ABC en C++.
+---
 ## Descripción de la implementación
 
 Este proyecto implementa el algoritmo Artificial Bee Colony (ABC) para resolver el problema Permutation Flow Shop Scheduling Problem (PFSP). La implementación incluye la lectura de instancias tipo Taillard, el cálculo eficiente del makespan y la ejecución completa de las fases del algoritmo ABC: abejas empleadas, observadoras y exploradoras.
